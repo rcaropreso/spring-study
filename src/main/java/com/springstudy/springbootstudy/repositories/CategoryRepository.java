@@ -1,6 +1,6 @@
 package com.springstudy.springbootstudy.repositories;
 
-//Este tipod e objeto faz acesso ao banco de dados 
+//Este tipo de objeto faz acesso ao banco de dados 
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

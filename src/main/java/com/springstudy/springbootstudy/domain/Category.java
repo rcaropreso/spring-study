@@ -22,7 +22,7 @@ public class Category implements Serializable{
 		
 	}
 
-	public Category(int i, String name) {
+	public Category(Integer i, String name) {
 		super();
 		this.id = i;
 		this.name = name;
